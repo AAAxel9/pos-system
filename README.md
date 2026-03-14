@@ -12,7 +12,7 @@ Sistema robusto diseñado para la gestión de inventario y punto de venta (POS) 
 ## Arquitectura de datos
 Diagrama Entidad-Relación con normalización 3FN aplicada
 
-![Diagrama Entidad-Relación](/assets/pos_system_schema.png)
+![Diagrama Entidad-Relación](/assets/pos_system_schema_v2.png)
 
 ## Stack tecnológico
 * **Frontend:** HTML, TailwindCSS, JS
